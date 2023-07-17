@@ -7,7 +7,7 @@ _Hola, soy desarrollador web con más de 6 años de experiencia en el area de la
 
 - 📫Como contactarme **ra.do.nu20@gmail.com**
 
-- 📄 Conoce mis experiencias [raulnunez.vercel.app](raulnunez.vercel.app)
+- 📄 Conoce mis experiencias <a href="https://raulnunez-dev.vercel.app/">https://raulnunez-dev.vercel.app/</a>
 
 <p align="left">
 <a href="https://linkedin.com/in/nunezraul06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nunezraul06" height="30" width="40" /></a>
